@@ -1,0 +1,15 @@
+C:\Users\GADO\Downloads\DESARROLLO DE SOFTWARE\REPOSITORIO\2Repaso\2Repaso\bin\Debug\net10.0\2Repaso.exe
+C:\Users\GADO\Downloads\DESARROLLO DE SOFTWARE\REPOSITORIO\2Repaso\2Repaso\bin\Debug\net10.0\2Repaso.deps.json
+C:\Users\GADO\Downloads\DESARROLLO DE SOFTWARE\REPOSITORIO\2Repaso\2Repaso\bin\Debug\net10.0\2Repaso.runtimeconfig.json
+C:\Users\GADO\Downloads\DESARROLLO DE SOFTWARE\REPOSITORIO\2Repaso\2Repaso\bin\Debug\net10.0\2Repaso.dll
+C:\Users\GADO\Downloads\DESARROLLO DE SOFTWARE\REPOSITORIO\2Repaso\2Repaso\bin\Debug\net10.0\2Repaso.pdb
+C:\Users\GADO\Downloads\DESARROLLO DE SOFTWARE\REPOSITORIO\2Repaso\2Repaso\obj\Debug\net10.0\2Repaso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GADO\Downloads\DESARROLLO DE SOFTWARE\REPOSITORIO\2Repaso\2Repaso\obj\Debug\net10.0\2Repaso.AssemblyInfoInputs.cache
+C:\Users\GADO\Downloads\DESARROLLO DE SOFTWARE\REPOSITORIO\2Repaso\2Repaso\obj\Debug\net10.0\2Repaso.AssemblyInfo.cs
+C:\Users\GADO\Downloads\DESARROLLO DE SOFTWARE\REPOSITORIO\2Repaso\2Repaso\obj\Debug\net10.0\2Repaso.csproj.CoreCompileInputs.cache
+C:\Users\GADO\Downloads\DESARROLLO DE SOFTWARE\REPOSITORIO\2Repaso\2Repaso\obj\Debug\net10.0\2Repaso.sourcelink.json
+C:\Users\GADO\Downloads\DESARROLLO DE SOFTWARE\REPOSITORIO\2Repaso\2Repaso\obj\Debug\net10.0\2Repaso.dll
+C:\Users\GADO\Downloads\DESARROLLO DE SOFTWARE\REPOSITORIO\2Repaso\2Repaso\obj\Debug\net10.0\refint\2Repaso.dll
+C:\Users\GADO\Downloads\DESARROLLO DE SOFTWARE\REPOSITORIO\2Repaso\2Repaso\obj\Debug\net10.0\2Repaso.pdb
+C:\Users\GADO\Downloads\DESARROLLO DE SOFTWARE\REPOSITORIO\2Repaso\2Repaso\obj\Debug\net10.0\2Repaso.genruntimeconfig.cache
+C:\Users\GADO\Downloads\DESARROLLO DE SOFTWARE\REPOSITORIO\2Repaso\2Repaso\obj\Debug\net10.0\ref\2Repaso.dll
