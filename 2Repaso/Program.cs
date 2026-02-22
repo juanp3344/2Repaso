@@ -29,9 +29,19 @@ class Program
                 Nombre= "ITM"
             };
 
+            Universidades universidad2 = new Universidades()
+            {
+               ID = 2,
+               Nombre = "UDEA"  
+            };
+
             universidad.sedes = new List<sedes>();
-            universidad.sedes.Add(new sedes(){ID=1, Nombre = "Robledo"});
-            universidad.sedes.Add(new sedes(){ID=2, Nombre = "fraternidad"});
+            universidad.sedes.Add(new sedes(){ID=1, Nombre = "Robledo", _Universidad=universidad});
+            universidad.sedes.Add(new sedes(){ID=2, Nombre = "fraternidad", _Universidad= universidad});
+            
+            universidad2.sedes = new List<sedes>();
+            universidad2.sedes.Add(new sedes(){ID=3, Nombre = "Universidad", _Universidad=universidad2});
+
             int op = 0;
             do{
         op = int.Parse(General.lea("MENU DE UNIVERSIDAD"+
@@ -42,7 +52,13 @@ class Program
         {
             
             case 1:
+                General.IMPRIMIR("\nITM");
                 foreach (var sedes in universidad.sedes)
+                {
+                    General.IMPRIMIR("ID: "+ sedes.ID + "\nNombre: "+ sedes.Nombre);
+                }
+                General.IMPRIMIR("\nUDEA");
+                foreach (var sedes in universidad2.sedes)
                 {
                     General.IMPRIMIR("ID: "+ sedes.ID + "\nNombre: "+ sedes.Nombre);
                 }
